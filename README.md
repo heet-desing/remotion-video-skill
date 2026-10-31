@@ -1,25 +1,25 @@
 # Remotion Video Skill
 
-A reusable Codex skill for turning topics, scripts, and creative briefs into polished Remotion videos.
+A reusable Codex skill that turns topics, scripts, and creative briefs into AI-assisted Remotion videos.
 
-## Download and install
+## Install
 
-Download [remotion-video-skill.zip](remotion-video-skill.zip) and extract it. Copy the enclosed `remotion-video` folder to your Codex skills directory (normally `~/.codex/skills/`), then open a new chat.
+Clone or download this repository. Copy the `remotion-video` directory into your Codex skills directory (normally `~/.codex/skills/`), then open a new chat.
 
-## Included in the package
+## Contents
 
-- Complete SKILL.md with requirements, scripting, storyboarding, media production, compositions, preview and MP4 rendering workflows.
-- Setup instructions with required dependencies and optional API/payment requirements.
-- Reusable React/TypeScript starter with animated scenes, transitions, audio and captions.
-- Brief, storyboard, asset ledger and quality-check templates.
-- Example prompts.
+- [Complete skill workflow](remotion-video/SKILL.md)
+- [Setup, dependencies, and service costs](remotion-video/references/setup.md)
+- [Production templates and quality checks](remotion-video/references/production.md)
+- [Example prompts](remotion-video/references/examples.md)
+- [React/TypeScript starter](remotion-video/assets/starter)
 
 ## Example
 
 Use $remotion-video to create a 30-second explainer about how rain forms. Use cheerful graphics and captions. Render an MP4 without paid services.
 
-Paid media generation is optional. The setup guide explains Remotion licensing and service requirements.
+The workflow covers requirements, scripting, storyboards, media generation and sourcing, synchronized audio and captions, reusable animations, previews, and final MP4 rendering. Paid generation services are optional; consult the setup guide for licensing and service requirements.
 
 ## Validation
 
-File structure, JSON, and reference links checked. Starter rendering and type checking with installed dependencies remain untested.
+File structure, JSON, and reference links have been checked. Starter rendering and type checking with installed dependencies remain untested.

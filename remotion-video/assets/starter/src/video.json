@@ -1,0 +1,9 @@
+{
+  "width": 1920, "height": 1080, "fps": 30, "transitionFrames": 12,
+  "voiceover": "", "music": "",
+  "scenes": [
+    {"title":"Start with a question", "body":"One clear idea makes a stronger story.", "color":"#14233d", "frames":162, "image":""},
+    {"title":"Make it visible", "body":"Use motion to guide attention.", "color":"#193d43", "frames":162, "image":""}
+  ],
+  "captions":[{"start":15,"end":140,"text":"One clear idea makes a stronger story."},{"start":175,"end":290,"text":"Use motion to guide attention."}]
+}

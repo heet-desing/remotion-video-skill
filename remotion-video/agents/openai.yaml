@@ -1,0 +1,4 @@
+interface:
+  display_name: "Remotion Video Producer"
+  short_description: "Create polished videos from briefs with Remotion"
+  default_prompt: "Use $remotion-video to turn my topic into a polished, rendered video."
